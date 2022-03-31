@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -la & cd -
-ls -ls & cd /boot pwd ls -ls
+ls -al.../boot
