@@ -1,7 +1,3 @@
 #!/bin/bash
-ls -la
-cd -
-ls -la
-cd /boot
-pwd
-ls -la 
+ls -la & cd -
+ls -ls & cd /boot pwd ls -ls
